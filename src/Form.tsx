@@ -1,8 +1,11 @@
+import Navbar from "./Navbar"
 
 
 const Form = () => {
   return (
-    <div>Form</div>
+    <div>
+        <Navbar />
+    </div>
   )
 }
 
